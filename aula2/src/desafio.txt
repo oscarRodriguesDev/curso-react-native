@@ -1,0 +1,8 @@
+Criar um banco
+nome - textinput
+idade- textinput
+sexo-picker
+limite- slider
+estudante- switch
+botão de salvar- salvar apenas se tiver tudo preenchido
+mostrar os dados na tela, ou em um alerta
