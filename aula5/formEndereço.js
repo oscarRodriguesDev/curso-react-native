@@ -62,7 +62,6 @@ try{
          style={styles.inputs}
           placeholder='Rua'
           value={rua}
-         
           />
         <Text style={styles.textos}>Informe o bairro</Text>
 
